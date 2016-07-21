@@ -1,5 +1,7 @@
 # Bootstrap Brasil para Localhost
 
+![Bootstrap](https://raw.githubusercontent.com/natanfelles/bootstrapbrasil/master/assets/img/bootstrap.png)
+
 Este projeto é um fork da [Tradução em Português (Brasil) do Bootstrap](https://github.com/bootstrapbrasil/bootstrapbrasil.github.io).
 
 ## Notas
